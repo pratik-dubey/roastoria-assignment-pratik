@@ -6,6 +6,9 @@ export const metadata: Metadata = {
   description:
     "India's fastest-growing premium coffee franchise. Join 480+ franchisees who turned a passion for coffee into a thriving, scalable business.",
   keywords: ["coffee franchise", "franchise India", "café franchise", "Roastoria"],
+  icons: {
+    icon: "/favicon.ico",
+  },
   openGraph: {
     title: "Roastoria — Own a Coffee Empire",
     description: "Join 480+ franchisees. Start your Roastoria journey today.",
