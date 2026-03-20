@@ -6,10 +6,10 @@ import Link from "next/link";
 const FOOTER_LINKS = {
   Franchise: ["Why Roastoria", "Packages & pricing", "How it works", "Franchisee stories", "Franchise FAQ"],
   Company: ["About us", "Our story", "Careers", "Press & media", "Blog"],
-  Contact: ["franchise@roastoria.in", "+91 98765 43210", "Visit HQ — Bengaluru", "Privacy policy", "Terms of service"],
+  Contact: ["franchise@roastoria.in", "+91 00000 00000", "Visit HQ — Bengaluru", "Privacy policy", "Terms of service"],
 };
 
-const SOCIALS = ["𝕏", "in", "f", "📸"];
+const SOCIALS = ["𝕏", "in", "f"];
 
 export default function Footer() {
   const [email, setEmail] = useState("");
